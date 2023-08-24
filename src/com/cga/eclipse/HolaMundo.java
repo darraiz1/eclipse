@@ -7,6 +7,7 @@ public class HolaMundo {
 
 		//git
 		System.out.println("Hola Mundo Git");
+		System.out.println("Otra linea");
 	}
 
 }
